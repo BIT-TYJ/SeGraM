@@ -20,3 +20,5 @@ $ python SeGraM.py
 ```sh
 $ python analyze-scenenet-209.py
 ```
+## OutDoor Evaluation
+Please see the other branch: SeGraM-outdoor.
