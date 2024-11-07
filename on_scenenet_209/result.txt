@@ -1,0 +1,1290 @@
+the 0 frame query
+P1: 0.478260869565 common_RGB_perception: 11 all semantic sorts: 23.0
+P2: 9
+P3:   max_same_angle_count is : 9
+final score: 0.0000, P1: 0.478260869565, P2: 9, P3: 9
+the 1 frame query
+P1: 0.5 common_RGB_perception: 11 all semantic sorts: 22.0
+P2: 8
+P3:   max_same_angle_count is : 8.5
+final score: 0.0000, P1: 0.5, P2: 8, P3: 8.5
+the 2 frame query
+P1: 0.545454545455 common_RGB_perception: 12 all semantic sorts: 22.0
+P2: 10
+P3:   max_same_angle_count is : 9.5
+final score: 0.0000, P1: 0.545454545455, P2: 10, P3: 9.5
+the 3 frame query
+P1: 0.521739130435 common_RGB_perception: 12 all semantic sorts: 23.0
+P2: 9
+P3:   max_same_angle_count is : 10.0
+final score: 0.0000, P1: 0.521739130435, P2: 9, P3: 10.0
+the 4 frame query
+P1: 0.545454545455 common_RGB_perception: 12 all semantic sorts: 22.0
+P2: 9
+P3:   max_same_angle_count is : 10
+final score: 0.0000, P1: 0.545454545455, P2: 9, P3: 10
+the 5 frame query
+P1: 0.545454545455 common_RGB_perception: 12 all semantic sorts: 22.0
+P2: 9
+P3:   max_same_angle_count is : 10
+final score: 0.0000, P1: 0.545454545455, P2: 9, P3: 10
+the 6 frame query
+P1: 0.521739130435 common_RGB_perception: 12 all semantic sorts: 23.0
+P2: 11
+P3:   max_same_angle_count is : 10
+final score: 0.0000, P1: 0.521739130435, P2: 11, P3: 10
+the 7 frame query
+P1: 0.521739130435 common_RGB_perception: 12 all semantic sorts: 23.0
+P2: 10
+P3:   max_same_angle_count is : 9
+final score: 0.0000, P1: 0.521739130435, P2: 10, P3: 9
+the 8 frame query
+P1: 0.5 common_RGB_perception: 11 all semantic sorts: 22.0
+P2: 10
+P3:   max_same_angle_count is : 9
+final score: 0.0000, P1: 0.5, P2: 10, P3: 9
+the 9 frame query
+P1: 0.5 common_RGB_perception: 11 all semantic sorts: 22.0
+P2: 9
+P3:   max_same_angle_count is : 7.5
+final score: 0.0000, P1: 0.5, P2: 9, P3: 7.5
+the 10 frame query
+P1: 0.5 common_RGB_perception: 11 all semantic sorts: 22.0
+P2: 9
+P3:   max_same_angle_count is : 8.0
+final score: 0.0000, P1: 0.5, P2: 9, P3: 8.0
+the 11 frame query
+P1: 0.52380952381 common_RGB_perception: 11 all semantic sorts: 21.0
+P2: 8
+P3:   max_same_angle_count is : 7.0
+final score: 0.0000, P1: 0.52380952381, P2: 8, P3: 7.0
+the 12 frame query
+P1: 0.52380952381 common_RGB_perception: 11 all semantic sorts: 21.0
+P2: 10
+P3:   max_same_angle_count is : 9
+final score: 0.0000, P1: 0.52380952381, P2: 10, P3: 9
+the 13 frame query
+P1: 0.55 common_RGB_perception: 11 all semantic sorts: 20.0
+P2: 8
+P3:   max_same_angle_count is : 8
+final score: 0.0000, P1: 0.55, P2: 8, P3: 8
+the 14 frame query
+P1: 0.55 common_RGB_perception: 11 all semantic sorts: 20.0
+P2: 8
+P3:   max_same_angle_count is : 7
+final score: 0.0000, P1: 0.55, P2: 8, P3: 7
+the 15 frame query
+P1: 0.47619047619 common_RGB_perception: 10 all semantic sorts: 21.0
+P2: 9
+P3:   max_same_angle_count is : 8
+final score: 0.0000, P1: 0.47619047619, P2: 9, P3: 8
+the 16 frame query
+P1: 0.428571428571 common_RGB_perception: 9 all semantic sorts: 21.0
+P2: 7
+P3:   max_same_angle_count is : 8
+final score: 0.0000, P1: 0.428571428571, P2: 7, P3: 8
+the 17 frame query
+P1: 0.55 common_RGB_perception: 11 all semantic sorts: 20.0
+P2: 9
+P3:   max_same_angle_count is : 8.5
+final score: 0.0000, P1: 0.55, P2: 9, P3: 8.5
+the 18 frame query
+P1: 0.52380952381 common_RGB_perception: 11 all semantic sorts: 21.0
+P2: 9
+P3:   max_same_angle_count is : 9
+final score: 0.0000, P1: 0.52380952381, P2: 9, P3: 9
+the 19 frame query
+P1: 0.52380952381 common_RGB_perception: 11 all semantic sorts: 21.0
+P2: 6
+P3:   max_same_angle_count is : 7
+final score: 0.0000, P1: 0.52380952381, P2: 6, P3: 7
+the 20 frame query
+P1: 0.571428571429 common_RGB_perception: 12 all semantic sorts: 21.0
+P2: 8
+P3:   max_same_angle_count is : 8.0
+final score: 0.0000, P1: 0.571428571429, P2: 8, P3: 8.0
+the 21 frame query
+P1: 0.47619047619 common_RGB_perception: 10 all semantic sorts: 21.0
+P2: 7
+P3:   max_same_angle_count is : 7
+final score: 0.0000, P1: 0.47619047619, P2: 7, P3: 7
+the 22 frame query
+P1: 0.55 common_RGB_perception: 11 all semantic sorts: 20.0
+P2: 7
+P3:   max_same_angle_count is : 7.5
+final score: 0.0000, P1: 0.55, P2: 7, P3: 7.5
+the 23 frame query
+P1: 0.6 common_RGB_perception: 12 all semantic sorts: 20.0
+P2: 7
+P3:   max_same_angle_count is : 9.0
+final score: 0.0000, P1: 0.6, P2: 7, P3: 9.0
+the 24 frame query
+P1: 0.631578947368 common_RGB_perception: 12 all semantic sorts: 19.0
+P2: 8
+P3:   max_same_angle_count is : 10
+final score: 0.0000, P1: 0.631578947368, P2: 8, P3: 10
+the 25 frame query
+P1: 0.666666666667 common_RGB_perception: 12 all semantic sorts: 18.0
+P2: 9
+P3:   max_same_angle_count is : 7.5
+final score: 0.0000, P1: 0.666666666667, P2: 9, P3: 7.5
+the 26 frame query
+P1: 0.666666666667 common_RGB_perception: 12 all semantic sorts: 18.0
+P2: 9
+P3:   max_same_angle_count is : 8
+final score: 0.0000, P1: 0.666666666667, P2: 9, P3: 8
+the 27 frame query
+P1: 0.666666666667 common_RGB_perception: 12 all semantic sorts: 18.0
+P2: 10
+P3:   max_same_angle_count is : 9
+final score: 0.0000, P1: 0.666666666667, P2: 10, P3: 9
+the 28 frame query
+P1: 0.705882352941 common_RGB_perception: 12 all semantic sorts: 17.0
+P2: 9
+P3:   max_same_angle_count is : 8
+final score: 0.0000, P1: 0.705882352941, P2: 9, P3: 8
+the 29 frame query
+P1: 0.705882352941 common_RGB_perception: 12 all semantic sorts: 17.0
+P2: 8
+P3:   max_same_angle_count is : 9
+final score: 0.0000, P1: 0.705882352941, P2: 8, P3: 9
+the 30 frame query
+P1: 0.555555555556 common_RGB_perception: 10 all semantic sorts: 18.0
+P2: 7
+P3:   max_same_angle_count is : 7
+final score: 0.0000, P1: 0.555555555556, P2: 7, P3: 7
+the 31 frame query
+P1: 0.5 common_RGB_perception: 9 all semantic sorts: 18.0
+P2: 7
+P3:   max_same_angle_count is : 6
+final score: 0.0000, P1: 0.5, P2: 7, P3: 6
+the 32 frame query
+P1: 0.555555555556 common_RGB_perception: 10 all semantic sorts: 18.0
+P2: 7
+P3:   max_same_angle_count is : 7
+final score: 0.0000, P1: 0.555555555556, P2: 7, P3: 7
+the 33 frame query
+P1: 0.611111111111 common_RGB_perception: 11 all semantic sorts: 18.0
+P2: 9
+P3:   max_same_angle_count is : 8
+final score: 0.0000, P1: 0.611111111111, P2: 9, P3: 8
+the 34 frame query
+P1: 0.611111111111 common_RGB_perception: 11 all semantic sorts: 18.0
+P2: 8
+P3:   max_same_angle_count is : 7.5
+final score: 0.0000, P1: 0.611111111111, P2: 8, P3: 7.5
+the 35 frame query
+P1: 0.555555555556 common_RGB_perception: 10 all semantic sorts: 18.0
+P2: 7
+P3:   max_same_angle_count is : 7
+final score: 0.0000, P1: 0.555555555556, P2: 7, P3: 7
+the 36 frame query
+P1: 0.611111111111 common_RGB_perception: 11 all semantic sorts: 18.0
+P2: 9
+P3:   max_same_angle_count is : 7
+final score: 0.0000, P1: 0.611111111111, P2: 9, P3: 7
+the 37 frame query
+P1: 0.611111111111 common_RGB_perception: 11 all semantic sorts: 18.0
+P2: 8
+P3:   max_same_angle_count is : 8.5
+final score: 0.0000, P1: 0.611111111111, P2: 8, P3: 8.5
+the 38 frame query
+P1: 0.611111111111 common_RGB_perception: 11 all semantic sorts: 18.0
+P2: 8
+P3:   max_same_angle_count is : 8
+final score: 0.0000, P1: 0.611111111111, P2: 8, P3: 8
+the 39 frame query
+P1: 0.611111111111 common_RGB_perception: 11 all semantic sorts: 18.0
+P2: 8
+P3:   max_same_angle_count is : 7.5
+final score: 0.0000, P1: 0.611111111111, P2: 8, P3: 7.5
+the 40 frame query
+P1: 0.611111111111 common_RGB_perception: 11 all semantic sorts: 18.0
+P2: 9
+P3:   max_same_angle_count is : 8
+final score: 0.0000, P1: 0.611111111111, P2: 9, P3: 8
+the 41 frame query
+P1: 0.588235294118 common_RGB_perception: 10 all semantic sorts: 17.0
+P2: 7
+P3:   max_same_angle_count is : 7
+final score: 0.0000, P1: 0.588235294118, P2: 7, P3: 7
+the 42 frame query
+P1: 0.625 common_RGB_perception: 10 all semantic sorts: 16.0
+P2: 7
+P3:   max_same_angle_count is : 7
+final score: 0.0000, P1: 0.625, P2: 7, P3: 7
+the 43 frame query
+P1: 0.625 common_RGB_perception: 10 all semantic sorts: 16.0
+P2: 6
+P3:   max_same_angle_count is : 6
+final score: 0.0000, P1: 0.625, P2: 6, P3: 6
+the 44 frame query
+P1: 0.5625 common_RGB_perception: 9 all semantic sorts: 16.0
+P2: 5
+P3:   max_same_angle_count is : 6
+final score: 0.0000, P1: 0.5625, P2: 5, P3: 6
+the 45 frame query
+P1: 0.6 common_RGB_perception: 9 all semantic sorts: 15.0
+P2: 7
+P3:   max_same_angle_count is : 8
+final score: 0.0000, P1: 0.6, P2: 7, P3: 8
+the 46 frame query
+P1: 0.666666666667 common_RGB_perception: 10 all semantic sorts: 15.0
+P2: 9
+P3:   max_same_angle_count is : 10
+final score: 0.0000, P1: 0.666666666667, P2: 9, P3: 10
+the 47 frame query
+P1: 0.714285714286 common_RGB_perception: 10 all semantic sorts: 14.0
+P2: 10
+P3:   max_same_angle_count is : 10
+final score: 0.0000, P1: 0.714285714286, P2: 10, P3: 10
+the 48 frame query
+P1: 0.714285714286 common_RGB_perception: 10 all semantic sorts: 14.0
+P2: 10
+P3:   max_same_angle_count is : 9
+final score: 0.0000, P1: 0.714285714286, P2: 10, P3: 9
+the 49 frame query
+P1: 0.714285714286 common_RGB_perception: 10 all semantic sorts: 14.0
+P2: 8
+P3:   max_same_angle_count is : 8
+final score: 0.0000, P1: 0.714285714286, P2: 8, P3: 8
+the 50 frame query
+P1: 0.642857142857 common_RGB_perception: 9 all semantic sorts: 14.0
+P2: 8
+P3:   max_same_angle_count is : 8
+final score: 0.0000, P1: 0.642857142857, P2: 8, P3: 8
+the 51 frame query
+P1: 0.642857142857 common_RGB_perception: 9 all semantic sorts: 14.0
+P2: 9
+P3:   max_same_angle_count is : 9
+final score: 0.0000, P1: 0.642857142857, P2: 9, P3: 9
+the 52 frame query
+P1: 0.714285714286 common_RGB_perception: 10 all semantic sorts: 14.0
+P2: 10
+P3:   max_same_angle_count is : 10
+final score: 0.0000, P1: 0.714285714286, P2: 10, P3: 10
+the 53 frame query
+P1: 0.642857142857 common_RGB_perception: 9 all semantic sorts: 14.0
+P2: 10
+P3:   max_same_angle_count is : 10
+final score: 0.0000, P1: 0.642857142857, P2: 10, P3: 10
+the 54 frame query
+P1: 0.666666666667 common_RGB_perception: 10 all semantic sorts: 15.0
+P2: 9
+P3:   max_same_angle_count is : 10
+final score: 0.0000, P1: 0.666666666667, P2: 9, P3: 10
+the 55 frame query
+P1: 0.625 common_RGB_perception: 10 all semantic sorts: 16.0
+P2: 8
+P3:   max_same_angle_count is : 9
+final score: 0.0000, P1: 0.625, P2: 8, P3: 9
+the 56 frame query
+P1: 0.588235294118 common_RGB_perception: 10 all semantic sorts: 17.0
+P2: 8
+P3:   max_same_angle_count is : 8
+final score: 0.0000, P1: 0.588235294118, P2: 8, P3: 8
+the 57 frame query
+P1: 0.5625 common_RGB_perception: 9 all semantic sorts: 16.0
+P2: 7
+P3:   max_same_angle_count is : 6
+final score: 0.0000, P1: 0.5625, P2: 7, P3: 6
+the 58 frame query
+P1: 0.5625 common_RGB_perception: 9 all semantic sorts: 16.0
+P2: 7
+P3:   max_same_angle_count is : 8
+final score: 0.0000, P1: 0.5625, P2: 7, P3: 8
+the 59 frame query
+P1: 0.5625 common_RGB_perception: 9 all semantic sorts: 16.0
+P2: 7
+P3:   max_same_angle_count is : 8.5
+final score: 0.0000, P1: 0.5625, P2: 7, P3: 8.5
+the 60 frame query
+P1: 0.625 common_RGB_perception: 10 all semantic sorts: 16.0
+P2: 8
+P3:   max_same_angle_count is : 7
+final score: 0.0000, P1: 0.625, P2: 8, P3: 7
+the 61 frame query
+P1: 0.625 common_RGB_perception: 10 all semantic sorts: 16.0
+P2: 8
+P3:   max_same_angle_count is : 7
+final score: 0.0000, P1: 0.625, P2: 8, P3: 7
+the 62 frame query
+P1: 0.5625 common_RGB_perception: 9 all semantic sorts: 16.0
+P2: 7
+P3:   max_same_angle_count is : 8
+final score: 0.0000, P1: 0.5625, P2: 7, P3: 8
+the 63 frame query
+P1: 0.6 common_RGB_perception: 9 all semantic sorts: 15.0
+P2: 7
+P3:   max_same_angle_count is : 8.5
+final score: 0.0000, P1: 0.6, P2: 7, P3: 8.5
+the 64 frame query
+P1: 0.6 common_RGB_perception: 9 all semantic sorts: 15.0
+P2: 9
+P3:   max_same_angle_count is : 8.5
+final score: 0.0000, P1: 0.6, P2: 9, P3: 8.5
+the 65 frame query
+P1: 0.733333333333 common_RGB_perception: 11 all semantic sorts: 15.0
+P2: 10
+P3:   max_same_angle_count is : 10
+final score: 0.0000, P1: 0.733333333333, P2: 10, P3: 10
+the 66 frame query
+P1: 0.846153846154 common_RGB_perception: 11 all semantic sorts: 13.0
+P2: 11
+P3:   max_same_angle_count is : 11
+final score: 0.0000, P1: 0.846153846154, P2: 11, P3: 11
+the 67 frame query
+P1: 1.0 common_RGB_perception: 12 all semantic sorts: 12.0
+P2: 13
+P3:   max_same_angle_count is : 13
+final score: 0.0000, P1: 1.0, P2: 13, P3: 13
+the 68 frame query
+P1: 0.916666666667 common_RGB_perception: 11 all semantic sorts: 12.0
+P2: 12
+P3:   max_same_angle_count is : 12
+final score: 0.0000, P1: 0.916666666667, P2: 12, P3: 12
+the 69 frame query
+P1: 0.916666666667 common_RGB_perception: 11 all semantic sorts: 12.0
+P2: 11
+P3:   max_same_angle_count is : 12
+final score: 0.0000, P1: 0.916666666667, P2: 11, P3: 12
+the 70 frame query
+P1: 0.916666666667 common_RGB_perception: 11 all semantic sorts: 12.0
+P2: 10
+P3:   max_same_angle_count is : 11.5
+final score: 0.0000, P1: 0.916666666667, P2: 10, P3: 11.5
+the 71 frame query
+P1: 0.833333333333 common_RGB_perception: 10 all semantic sorts: 12.0
+P2: 10
+P3:   max_same_angle_count is : 8
+final score: 0.0000, P1: 0.833333333333, P2: 10, P3: 8
+the 72 frame query
+P1: 0.714285714286 common_RGB_perception: 10 all semantic sorts: 14.0
+P2: 9
+P3:   max_same_angle_count is : 7
+final score: 0.0000, P1: 0.714285714286, P2: 9, P3: 7
+the 73 frame query
+P1: 0.411764705882 common_RGB_perception: 7 all semantic sorts: 17.0
+P2: 4
+P3:   max_same_angle_count is : 4.5
+final score: 0.0000, P1: 0.411764705882, P2: 4, P3: 4.5
+the 74 frame query
+P1: 0.166666666667 common_RGB_perception: 3 all semantic sorts: 18.0
+final score: 0
+the 75 frame query
+P1: 0.133333333333 common_RGB_perception: 2 all semantic sorts: 15.0
+final score: 0
+the 76 frame query
+P1: 0.0714285714286 common_RGB_perception: 1 all semantic sorts: 14.0
+final score: 0
+the 77 frame query
+P1: 0.214285714286 common_RGB_perception: 3 all semantic sorts: 14.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 78 frame query
+P1: 0.2 common_RGB_perception: 3 all semantic sorts: 15.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 79 frame query
+P1: 0.1875 common_RGB_perception: 3 all semantic sorts: 16.0
+final score: 0
+the 80 frame query
+P1: 0.176470588235 common_RGB_perception: 3 all semantic sorts: 17.0
+final score: 0
+the 81 frame query
+P1: 0.176470588235 common_RGB_perception: 3 all semantic sorts: 17.0
+final score: 0
+the 82 frame query
+P1: 0.176470588235 common_RGB_perception: 3 all semantic sorts: 17.0
+final score: 0
+the 83 frame query
+P1: 0.176470588235 common_RGB_perception: 3 all semantic sorts: 17.0
+final score: 0
+the 84 frame query
+P1: 0.176470588235 common_RGB_perception: 3 all semantic sorts: 17.0
+final score: 0
+the 85 frame query
+P1: 0.176470588235 common_RGB_perception: 3 all semantic sorts: 17.0
+final score: 0
+the 86 frame query
+P1: 0.176470588235 common_RGB_perception: 3 all semantic sorts: 17.0
+final score: 0
+the 87 frame query
+P1: 0.176470588235 common_RGB_perception: 3 all semantic sorts: 17.0
+final score: 0
+the 88 frame query
+P1: 0.176470588235 common_RGB_perception: 3 all semantic sorts: 17.0
+final score: 0
+the 89 frame query
+P1: 0.166666666667 common_RGB_perception: 3 all semantic sorts: 18.0
+final score: 0
+the 90 frame query
+P1: 0.222222222222 common_RGB_perception: 4 all semantic sorts: 18.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 91 frame query
+P1: 0.222222222222 common_RGB_perception: 4 all semantic sorts: 18.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 92 frame query
+P1: 0.222222222222 common_RGB_perception: 4 all semantic sorts: 18.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 93 frame query
+P1: 0.176470588235 common_RGB_perception: 3 all semantic sorts: 17.0
+final score: 0
+the 94 frame query
+P1: 0.176470588235 common_RGB_perception: 3 all semantic sorts: 17.0
+final score: 0
+the 95 frame query
+P1: 0.1875 common_RGB_perception: 3 all semantic sorts: 16.0
+final score: 0
+the 96 frame query
+P1: 0.1875 common_RGB_perception: 3 all semantic sorts: 16.0
+final score: 0
+the 97 frame query
+P1: 0.2 common_RGB_perception: 3 all semantic sorts: 15.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 98 frame query
+P1: 0.2 common_RGB_perception: 3 all semantic sorts: 15.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 99 frame query
+P1: 0.2 common_RGB_perception: 3 all semantic sorts: 15.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 100 frame query
+P1: 0.2 common_RGB_perception: 3 all semantic sorts: 15.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 101 frame query
+P1: 0.214285714286 common_RGB_perception: 3 all semantic sorts: 14.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 102 frame query
+P1: 0.214285714286 common_RGB_perception: 3 all semantic sorts: 14.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 103 frame query
+P1: 0.214285714286 common_RGB_perception: 3 all semantic sorts: 14.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 104 frame query
+P1: 0.214285714286 common_RGB_perception: 3 all semantic sorts: 14.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 105 frame query
+P1: 0.142857142857 common_RGB_perception: 2 all semantic sorts: 14.0
+final score: 0
+the 106 frame query
+P1: 0.214285714286 common_RGB_perception: 3 all semantic sorts: 14.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 107 frame query
+P1: 0.214285714286 common_RGB_perception: 3 all semantic sorts: 14.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 108 frame query
+P1: 0.214285714286 common_RGB_perception: 3 all semantic sorts: 14.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 109 frame query
+P1: 0.2 common_RGB_perception: 3 all semantic sorts: 15.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 110 frame query
+P1: 0.2 common_RGB_perception: 3 all semantic sorts: 15.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 111 frame query
+P1: 0.214285714286 common_RGB_perception: 3 all semantic sorts: 14.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 112 frame query
+P1: 0.142857142857 common_RGB_perception: 2 all semantic sorts: 14.0
+final score: 0
+the 113 frame query
+P1: 0.142857142857 common_RGB_perception: 2 all semantic sorts: 14.0
+final score: 0
+the 114 frame query
+P1: 0.153846153846 common_RGB_perception: 2 all semantic sorts: 13.0
+final score: 0
+the 115 frame query
+P1: 0.0769230769231 common_RGB_perception: 1 all semantic sorts: 13.0
+final score: 0
+the 116 frame query
+P1: 0.0769230769231 common_RGB_perception: 1 all semantic sorts: 13.0
+final score: 0
+the 117 frame query
+P1: 0.0769230769231 common_RGB_perception: 1 all semantic sorts: 13.0
+final score: 0
+the 118 frame query
+P1: 0.0769230769231 common_RGB_perception: 1 all semantic sorts: 13.0
+final score: 0
+the 119 frame query
+P1: 0.0769230769231 common_RGB_perception: 1 all semantic sorts: 13.0
+final score: 0
+the 120 frame query
+P1: 0.0769230769231 common_RGB_perception: 1 all semantic sorts: 13.0
+final score: 0
+the 121 frame query
+P1: 0.153846153846 common_RGB_perception: 2 all semantic sorts: 13.0
+final score: 0
+the 122 frame query
+P1: 0.142857142857 common_RGB_perception: 2 all semantic sorts: 14.0
+final score: 0
+the 123 frame query
+P1: 0.133333333333 common_RGB_perception: 2 all semantic sorts: 15.0
+final score: 0
+the 124 frame query
+P1: 0.133333333333 common_RGB_perception: 2 all semantic sorts: 15.0
+final score: 0
+the 125 frame query
+P1: 0.125 common_RGB_perception: 2 all semantic sorts: 16.0
+final score: 0
+the 126 frame query
+P1: 0.1875 common_RGB_perception: 3 all semantic sorts: 16.0
+final score: 0
+the 127 frame query
+P1: 0.1875 common_RGB_perception: 3 all semantic sorts: 16.0
+final score: 0
+the 128 frame query
+P1: 0.1875 common_RGB_perception: 3 all semantic sorts: 16.0
+final score: 0
+the 129 frame query
+P1: 0.1875 common_RGB_perception: 3 all semantic sorts: 16.0
+final score: 0
+the 130 frame query
+P1: 0.1875 common_RGB_perception: 3 all semantic sorts: 16.0
+final score: 0
+the 131 frame query
+P1: 0.1875 common_RGB_perception: 3 all semantic sorts: 16.0
+final score: 0
+the 132 frame query
+P1: 0.176470588235 common_RGB_perception: 3 all semantic sorts: 17.0
+final score: 0
+the 133 frame query
+P1: 0.176470588235 common_RGB_perception: 3 all semantic sorts: 17.0
+final score: 0
+the 134 frame query
+P1: 0.176470588235 common_RGB_perception: 3 all semantic sorts: 17.0
+final score: 0
+the 135 frame query
+P1: 0.222222222222 common_RGB_perception: 4 all semantic sorts: 18.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 136 frame query
+P1: 0.210526315789 common_RGB_perception: 4 all semantic sorts: 19.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 137 frame query
+P1: 0.210526315789 common_RGB_perception: 4 all semantic sorts: 19.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 138 frame query
+P1: 0.210526315789 common_RGB_perception: 4 all semantic sorts: 19.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 139 frame query
+P1: 0.15 common_RGB_perception: 3 all semantic sorts: 20.0
+final score: 0
+the 140 frame query
+P1: 0.142857142857 common_RGB_perception: 3 all semantic sorts: 21.0
+final score: 0
+the 141 frame query
+P1: 0.15 common_RGB_perception: 3 all semantic sorts: 20.0
+final score: 0
+the 142 frame query
+P1: 0.136363636364 common_RGB_perception: 3 all semantic sorts: 22.0
+final score: 0
+the 143 frame query
+P1: 0.217391304348 common_RGB_perception: 5 all semantic sorts: 23.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 144 frame query
+P1: 0.181818181818 common_RGB_perception: 4 all semantic sorts: 22.0
+final score: 0
+the 145 frame query
+P1: 0.181818181818 common_RGB_perception: 4 all semantic sorts: 22.0
+final score: 0
+the 146 frame query
+P1: 0.181818181818 common_RGB_perception: 4 all semantic sorts: 22.0
+final score: 0
+the 147 frame query
+P1: 0.190476190476 common_RGB_perception: 4 all semantic sorts: 21.0
+final score: 0
+the 148 frame query
+P1: 0.105263157895 common_RGB_perception: 2 all semantic sorts: 19.0
+final score: 0
+the 149 frame query
+P1: 0.105263157895 common_RGB_perception: 2 all semantic sorts: 19.0
+final score: 0
+the 150 frame query
+P1: 0.111111111111 common_RGB_perception: 2 all semantic sorts: 18.0
+final score: 0
+the 151 frame query
+P1: 0.117647058824 common_RGB_perception: 2 all semantic sorts: 17.0
+final score: 0
+the 152 frame query
+P1: 0.117647058824 common_RGB_perception: 2 all semantic sorts: 17.0
+final score: 0
+the 153 frame query
+P1: 0.117647058824 common_RGB_perception: 2 all semantic sorts: 17.0
+final score: 0
+the 154 frame query
+P1: 0.117647058824 common_RGB_perception: 2 all semantic sorts: 17.0
+final score: 0
+the 155 frame query
+P1: 0.111111111111 common_RGB_perception: 2 all semantic sorts: 18.0
+final score: 0
+the 156 frame query
+P1: 0.111111111111 common_RGB_perception: 2 all semantic sorts: 18.0
+final score: 0
+the 157 frame query
+P1: 0.117647058824 common_RGB_perception: 2 all semantic sorts: 17.0
+final score: 0
+the 158 frame query
+P1: 0.111111111111 common_RGB_perception: 2 all semantic sorts: 18.0
+final score: 0
+the 159 frame query
+P1: 0.176470588235 common_RGB_perception: 3 all semantic sorts: 17.0
+final score: 0
+the 160 frame query
+P1: 0.142857142857 common_RGB_perception: 3 all semantic sorts: 21.0
+final score: 0
+the 161 frame query
+P1: 0.227272727273 common_RGB_perception: 5 all semantic sorts: 22.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 162 frame query
+P1: 0.217391304348 common_RGB_perception: 5 all semantic sorts: 23.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 163 frame query
+P1: 0.238095238095 common_RGB_perception: 5 all semantic sorts: 21.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 164 frame query
+P1: 0.238095238095 common_RGB_perception: 5 all semantic sorts: 21.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 165 frame query
+P1: 0.318181818182 common_RGB_perception: 7 all semantic sorts: 22.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 166 frame query
+P1: 0.318181818182 common_RGB_perception: 7 all semantic sorts: 22.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 167 frame query
+P1: 0.409090909091 common_RGB_perception: 9 all semantic sorts: 22.0
+P2: 2
+P3:   max_same_angle_count is : 2
+final score: 0.0000, P1: 0.409090909091, P2: 2, P3: 2
+the 168 frame query
+P1: 0.409090909091 common_RGB_perception: 9 all semantic sorts: 22.0
+P2: 3
+P3:   max_same_angle_count is : 3.5
+final score: 0.0000, P1: 0.409090909091, P2: 3, P3: 3.5
+the 169 frame query
+P1: 0.409090909091 common_RGB_perception: 9 all semantic sorts: 22.0
+P2: 4
+P3:   max_same_angle_count is : 4
+final score: 0.0000, P1: 0.409090909091, P2: 4, P3: 4
+the 170 frame query
+P1: 0.45 common_RGB_perception: 9 all semantic sorts: 20.0
+P2: 4
+P3:   max_same_angle_count is : 3
+final score: 0.0000, P1: 0.45, P2: 4, P3: 3
+the 171 frame query
+P1: 0.45 common_RGB_perception: 9 all semantic sorts: 20.0
+P2: 4
+P3:   max_same_angle_count is : 3.5
+final score: 0.0000, P1: 0.45, P2: 4, P3: 3.5
+the 172 frame query
+P1: 0.428571428571 common_RGB_perception: 9 all semantic sorts: 21.0
+P2: 5
+P3:   max_same_angle_count is : 4
+final score: 0.0000, P1: 0.428571428571, P2: 5, P3: 4
+the 173 frame query
+P1: 0.428571428571 common_RGB_perception: 9 all semantic sorts: 21.0
+P2: 5
+P3:   max_same_angle_count is : 5
+final score: 0.0000, P1: 0.428571428571, P2: 5, P3: 5
+the 174 frame query
+P1: 0.45 common_RGB_perception: 9 all semantic sorts: 20.0
+P2: 4
+P3:   max_same_angle_count is : 4.5
+final score: 0.0000, P1: 0.45, P2: 4, P3: 4.5
+the 175 frame query
+P1: 0.526315789474 common_RGB_perception: 10 all semantic sorts: 19.0
+P2: 7
+P3:   max_same_angle_count is : 6.5
+final score: 0.0000, P1: 0.526315789474, P2: 7, P3: 6.5
+the 176 frame query
+P1: 0.5 common_RGB_perception: 10 all semantic sorts: 20.0
+P2: 7
+P3:   max_same_angle_count is : 8
+final score: 0.0000, P1: 0.5, P2: 7, P3: 8
+the 177 frame query
+P1: 0.55 common_RGB_perception: 11 all semantic sorts: 20.0
+P2: 7
+P3:   max_same_angle_count is : 8
+final score: 0.0000, P1: 0.55, P2: 7, P3: 8
+the 178 frame query
+P1: 0.578947368421 common_RGB_perception: 11 all semantic sorts: 19.0
+P2: 7
+P3:   max_same_angle_count is : 7
+final score: 0.0000, P1: 0.578947368421, P2: 7, P3: 7
+the 179 frame query
+P1: 0.611111111111 common_RGB_perception: 11 all semantic sorts: 18.0
+P2: 7
+P3:   max_same_angle_count is : 8
+final score: 0.0000, P1: 0.611111111111, P2: 7, P3: 8
+the 180 frame query
+P1: 0.666666666667 common_RGB_perception: 12 all semantic sorts: 18.0
+P2: 8
+P3:   max_same_angle_count is : 5
+final score: 0.0000, P1: 0.666666666667, P2: 8, P3: 5
+the 181 frame query
+P1: 0.631578947368 common_RGB_perception: 12 all semantic sorts: 19.0
+P2: 8
+P3:   max_same_angle_count is : 6
+final score: 0.0000, P1: 0.631578947368, P2: 8, P3: 6
+the 182 frame query
+P1: 0.631578947368 common_RGB_perception: 12 all semantic sorts: 19.0
+P2: 8
+P3:   max_same_angle_count is : 6
+final score: 0.0000, P1: 0.631578947368, P2: 8, P3: 6
+the 183 frame query
+P1: 0.578947368421 common_RGB_perception: 11 all semantic sorts: 19.0
+P2: 8
+P3:   max_same_angle_count is : 8
+final score: 0.0000, P1: 0.578947368421, P2: 8, P3: 8
+the 184 frame query
+P1: 0.55 common_RGB_perception: 11 all semantic sorts: 20.0
+P2: 8
+P3:   max_same_angle_count is : 8.5
+final score: 0.0000, P1: 0.55, P2: 8, P3: 8.5
+the 185 frame query
+P1: 0.5 common_RGB_perception: 10 all semantic sorts: 20.0
+P2: 5
+P3:   max_same_angle_count is : 6
+final score: 0.0000, P1: 0.5, P2: 5, P3: 6
+the 186 frame query
+P1: 0.5 common_RGB_perception: 10 all semantic sorts: 20.0
+P2: 5
+P3:   max_same_angle_count is : 4.5
+final score: 0.0000, P1: 0.5, P2: 5, P3: 4.5
+the 187 frame query
+P1: 0.45 common_RGB_perception: 9 all semantic sorts: 20.0
+P2: 5
+P3:   max_same_angle_count is : 4
+final score: 0.0000, P1: 0.45, P2: 5, P3: 4
+the 188 frame query
+P1: 0.45 common_RGB_perception: 9 all semantic sorts: 20.0
+P2: 5
+P3:   max_same_angle_count is : 4
+final score: 0.0000, P1: 0.45, P2: 5, P3: 4
+the 189 frame query
+P1: 0.45 common_RGB_perception: 9 all semantic sorts: 20.0
+P2: 5
+P3:   max_same_angle_count is : 4.5
+final score: 0.0000, P1: 0.45, P2: 5, P3: 4.5
+the 190 frame query
+P1: 0.45 common_RGB_perception: 9 all semantic sorts: 20.0
+P2: 4
+P3:   max_same_angle_count is : 3.5
+final score: 0.0000, P1: 0.45, P2: 4, P3: 3.5
+the 191 frame query
+P1: 0.45 common_RGB_perception: 9 all semantic sorts: 20.0
+P2: 4
+P3:   max_same_angle_count is : 3.5
+final score: 0.0000, P1: 0.45, P2: 4, P3: 3.5
+the 192 frame query
+P1: 0.4 common_RGB_perception: 8 all semantic sorts: 20.0
+P2: 4
+P3:   max_same_angle_count is : 4.5
+final score: 0.0000, P1: 0.4, P2: 4, P3: 4.5
+the 193 frame query
+P1: 0.4 common_RGB_perception: 8 all semantic sorts: 20.0
+P2: 4
+P3:   max_same_angle_count is : 3
+final score: 0.0000, P1: 0.4, P2: 4, P3: 3
+the 194 frame query
+P1: 0.4 common_RGB_perception: 8 all semantic sorts: 20.0
+P2: 4
+P3:   max_same_angle_count is : 4
+final score: 0.0000, P1: 0.4, P2: 4, P3: 4
+the 195 frame query
+P1: 0.4 common_RGB_perception: 8 all semantic sorts: 20.0
+P2: 3
+P3:   max_same_angle_count is : 3
+final score: 0.0000, P1: 0.4, P2: 3, P3: 3
+the 196 frame query
+P1: 0.4 common_RGB_perception: 8 all semantic sorts: 20.0
+P2: 2
+P3:   max_same_angle_count is : 3
+final score: 0.0000, P1: 0.4, P2: 2, P3: 3
+the 197 frame query
+P1: 0.35 common_RGB_perception: 7 all semantic sorts: 20.0
+P2: 2
+P3:   max_same_angle_count is : 3
+final score: 0.0000, P1: 0.35, P2: 2, P3: 3
+the 198 frame query
+P1: 0.35 common_RGB_perception: 7 all semantic sorts: 20.0
+P2: 2
+P3:   max_same_angle_count is : 3
+final score: 0.0000, P1: 0.35, P2: 2, P3: 3
+the 199 frame query
+P1: 0.3 common_RGB_perception: 6 all semantic sorts: 20.0
+P2: 2
+P3:   max_same_angle_count is : 2
+final score: 0.0000, P1: 0.3, P2: 2, P3: 2
+the 200 frame query
+P1: 0.333333333333 common_RGB_perception: 6 all semantic sorts: 18.0
+P2: 2
+P3:   max_same_angle_count is : 2
+final score: 0.0000, P1: 0.333333333333, P2: 2, P3: 2
+the 201 frame query
+P1: 0.368421052632 common_RGB_perception: 7 all semantic sorts: 19.0
+P2: 2
+P3:   max_same_angle_count is : 2
+final score: 0.0000, P1: 0.368421052632, P2: 2, P3: 2
+the 202 frame query
+P1: 0.388888888889 common_RGB_perception: 7 all semantic sorts: 18.0
+P2: 2
+P3:   max_same_angle_count is : 2
+final score: 0.0000, P1: 0.388888888889, P2: 2, P3: 2
+the 203 frame query
+P1: 0.388888888889 common_RGB_perception: 7 all semantic sorts: 18.0
+P2: 2
+P3:   max_same_angle_count is : 2
+final score: 0.0000, P1: 0.388888888889, P2: 2, P3: 2
+the 204 frame query
+P1: 0.388888888889 common_RGB_perception: 7 all semantic sorts: 18.0
+P2: 2
+P3:   max_same_angle_count is : 2
+final score: 0.0000, P1: 0.388888888889, P2: 2, P3: 2
+the 205 frame query
+P1: 0.444444444444 common_RGB_perception: 8 all semantic sorts: 18.0
+P2: 2
+P3:   max_same_angle_count is : 2
+final score: 0.0000, P1: 0.444444444444, P2: 2, P3: 2
+the 206 frame query
+P1: 0.444444444444 common_RGB_perception: 8 all semantic sorts: 18.0
+P2: 3
+P3:   max_same_angle_count is : 4
+final score: 0.0000, P1: 0.444444444444, P2: 3, P3: 4
+the 207 frame query
+P1: 0.470588235294 common_RGB_perception: 8 all semantic sorts: 17.0
+P2: 3
+P3:   max_same_angle_count is : 4
+final score: 0.0000, P1: 0.470588235294, P2: 3, P3: 4
+the 208 frame query
+P1: 0.470588235294 common_RGB_perception: 8 all semantic sorts: 17.0
+P2: 2
+P3:   max_same_angle_count is : 4
+final score: 0.0000, P1: 0.470588235294, P2: 2, P3: 4
+the 209 frame query
+P1: 0.411764705882 common_RGB_perception: 7 all semantic sorts: 17.0
+P2: 2
+P3:   max_same_angle_count is : 3
+final score: 0.0000, P1: 0.411764705882, P2: 2, P3: 3
+the 210 frame query
+P1: 0.3125 common_RGB_perception: 5 all semantic sorts: 16.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 211 frame query
+P1: 0.25 common_RGB_perception: 4 all semantic sorts: 16.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 212 frame query
+P1: 0.1875 common_RGB_perception: 3 all semantic sorts: 16.0
+final score: 0
+the 213 frame query
+P1: 0.1875 common_RGB_perception: 3 all semantic sorts: 16.0
+final score: 0
+the 214 frame query
+P1: 0.1875 common_RGB_perception: 3 all semantic sorts: 16.0
+final score: 0
+the 215 frame query
+P1: 0.1875 common_RGB_perception: 3 all semantic sorts: 16.0
+final score: 0
+the 216 frame query
+P1: 0.125 common_RGB_perception: 2 all semantic sorts: 16.0
+final score: 0
+the 217 frame query
+P1: 0.125 common_RGB_perception: 2 all semantic sorts: 16.0
+final score: 0
+the 218 frame query
+P1: 0.125 common_RGB_perception: 2 all semantic sorts: 16.0
+final score: 0
+the 219 frame query
+P1: 0.125 common_RGB_perception: 2 all semantic sorts: 16.0
+final score: 0
+the 220 frame query
+P1: 0.125 common_RGB_perception: 2 all semantic sorts: 16.0
+final score: 0
+the 221 frame query
+P1: 0.125 common_RGB_perception: 2 all semantic sorts: 16.0
+final score: 0
+the 222 frame query
+P1: 0.125 common_RGB_perception: 2 all semantic sorts: 16.0
+final score: 0
+the 223 frame query
+P1: 0.125 common_RGB_perception: 2 all semantic sorts: 16.0
+final score: 0
+the 224 frame query
+P1: 0.125 common_RGB_perception: 2 all semantic sorts: 16.0
+final score: 0
+the 225 frame query
+P1: 0.125 common_RGB_perception: 2 all semantic sorts: 16.0
+final score: 0
+the 226 frame query
+P1: 0.125 common_RGB_perception: 2 all semantic sorts: 16.0
+final score: 0
+the 227 frame query
+P1: 0.125 common_RGB_perception: 2 all semantic sorts: 16.0
+final score: 0
+the 228 frame query
+P1: 0.125 common_RGB_perception: 2 all semantic sorts: 16.0
+final score: 0
+the 229 frame query
+P1: 0.125 common_RGB_perception: 2 all semantic sorts: 16.0
+final score: 0
+the 230 frame query
+P1: 0.125 common_RGB_perception: 2 all semantic sorts: 16.0
+final score: 0
+the 231 frame query
+P1: 0.125 common_RGB_perception: 2 all semantic sorts: 16.0
+final score: 0
+the 232 frame query
+P1: 0.125 common_RGB_perception: 2 all semantic sorts: 16.0
+final score: 0
+the 233 frame query
+P1: 0.125 common_RGB_perception: 2 all semantic sorts: 16.0
+final score: 0
+the 234 frame query
+P1: 0.125 common_RGB_perception: 2 all semantic sorts: 16.0
+final score: 0
+the 235 frame query
+P1: 0.117647058824 common_RGB_perception: 2 all semantic sorts: 17.0
+final score: 0
+the 236 frame query
+P1: 0.111111111111 common_RGB_perception: 2 all semantic sorts: 18.0
+final score: 0
+the 237 frame query
+P1: 0.105263157895 common_RGB_perception: 2 all semantic sorts: 19.0
+final score: 0
+the 238 frame query
+P1: 0.142857142857 common_RGB_perception: 3 all semantic sorts: 21.0
+final score: 0
+the 239 frame query
+P1: 0.190476190476 common_RGB_perception: 4 all semantic sorts: 21.0
+final score: 0
+the 240 frame query
+P1: 0.190476190476 common_RGB_perception: 4 all semantic sorts: 21.0
+final score: 0
+the 241 frame query
+P1: 0.181818181818 common_RGB_perception: 4 all semantic sorts: 22.0
+final score: 0
+the 242 frame query
+P1: 0.227272727273 common_RGB_perception: 5 all semantic sorts: 22.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 243 frame query
+P1: 0.217391304348 common_RGB_perception: 5 all semantic sorts: 23.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 244 frame query
+P1: 0.208333333333 common_RGB_perception: 5 all semantic sorts: 24.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 245 frame query
+P1: 0.208333333333 common_RGB_perception: 5 all semantic sorts: 24.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 246 frame query
+P1: 0.227272727273 common_RGB_perception: 5 all semantic sorts: 22.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 247 frame query
+P1: 0.227272727273 common_RGB_perception: 5 all semantic sorts: 22.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 248 frame query
+P1: 0.227272727273 common_RGB_perception: 5 all semantic sorts: 22.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 249 frame query
+P1: 0.227272727273 common_RGB_perception: 5 all semantic sorts: 22.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 250 frame query
+P1: 0.227272727273 common_RGB_perception: 5 all semantic sorts: 22.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 251 frame query
+P1: 0.227272727273 common_RGB_perception: 5 all semantic sorts: 22.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 252 frame query
+P1: 0.227272727273 common_RGB_perception: 5 all semantic sorts: 22.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 253 frame query
+P1: 0.227272727273 common_RGB_perception: 5 all semantic sorts: 22.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 254 frame query
+P1: 0.217391304348 common_RGB_perception: 5 all semantic sorts: 23.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 255 frame query
+P1: 0.217391304348 common_RGB_perception: 5 all semantic sorts: 23.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 256 frame query
+P1: 0.217391304348 common_RGB_perception: 5 all semantic sorts: 23.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 257 frame query
+P1: 0.217391304348 common_RGB_perception: 5 all semantic sorts: 23.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 258 frame query
+P1: 0.217391304348 common_RGB_perception: 5 all semantic sorts: 23.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 259 frame query
+P1: 0.227272727273 common_RGB_perception: 5 all semantic sorts: 22.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 260 frame query
+P1: 0.157894736842 common_RGB_perception: 3 all semantic sorts: 19.0
+final score: 0
+the 261 frame query
+P1: 0.157894736842 common_RGB_perception: 3 all semantic sorts: 19.0
+final score: 0
+the 262 frame query
+P1: 0.157894736842 common_RGB_perception: 3 all semantic sorts: 19.0
+final score: 0
+the 263 frame query
+P1: 0.157894736842 common_RGB_perception: 3 all semantic sorts: 19.0
+final score: 0
+the 264 frame query
+P1: 0.166666666667 common_RGB_perception: 3 all semantic sorts: 18.0
+final score: 0
+the 265 frame query
+P1: 0.111111111111 common_RGB_perception: 2 all semantic sorts: 18.0
+final score: 0
+the 266 frame query
+P1: 0.111111111111 common_RGB_perception: 2 all semantic sorts: 18.0
+final score: 0
+the 267 frame query
+P1: 0.111111111111 common_RGB_perception: 2 all semantic sorts: 18.0
+final score: 0
+the 268 frame query
+P1: 0.166666666667 common_RGB_perception: 3 all semantic sorts: 18.0
+final score: 0
+the 269 frame query
+P1: 0.222222222222 common_RGB_perception: 4 all semantic sorts: 18.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 270 frame query
+P1: 0.222222222222 common_RGB_perception: 4 all semantic sorts: 18.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 271 frame query
+P1: 0.222222222222 common_RGB_perception: 4 all semantic sorts: 18.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 272 frame query
+P1: 0.222222222222 common_RGB_perception: 4 all semantic sorts: 18.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 273 frame query
+P1: 0.210526315789 common_RGB_perception: 4 all semantic sorts: 19.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 274 frame query
+P1: 0.210526315789 common_RGB_perception: 4 all semantic sorts: 19.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 275 frame query
+P1: 0.210526315789 common_RGB_perception: 4 all semantic sorts: 19.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 276 frame query
+P1: 0.2 common_RGB_perception: 4 all semantic sorts: 20.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 277 frame query
+P1: 0.2 common_RGB_perception: 4 all semantic sorts: 20.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 278 frame query
+P1: 0.2 common_RGB_perception: 4 all semantic sorts: 20.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 279 frame query
+P1: 0.190476190476 common_RGB_perception: 4 all semantic sorts: 21.0
+final score: 0
+the 280 frame query
+P1: 0.190476190476 common_RGB_perception: 4 all semantic sorts: 21.0
+final score: 0
+the 281 frame query
+P1: 0.190476190476 common_RGB_perception: 4 all semantic sorts: 21.0
+final score: 0
+the 282 frame query
+P1: 0.2 common_RGB_perception: 4 all semantic sorts: 20.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 283 frame query
+P1: 0.210526315789 common_RGB_perception: 4 all semantic sorts: 19.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 284 frame query
+P1: 0.210526315789 common_RGB_perception: 4 all semantic sorts: 19.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 285 frame query
+P1: 0.210526315789 common_RGB_perception: 4 all semantic sorts: 19.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 286 frame query
+P1: 0.210526315789 common_RGB_perception: 4 all semantic sorts: 19.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 287 frame query
+P1: 0.263157894737 common_RGB_perception: 5 all semantic sorts: 19.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 288 frame query
+P1: 0.210526315789 common_RGB_perception: 4 all semantic sorts: 19.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 289 frame query
+P1: 0.210526315789 common_RGB_perception: 4 all semantic sorts: 19.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 290 frame query
+P1: 0.210526315789 common_RGB_perception: 4 all semantic sorts: 19.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 291 frame query
+P1: 0.210526315789 common_RGB_perception: 4 all semantic sorts: 19.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 292 frame query
+P1: 0.210526315789 common_RGB_perception: 4 all semantic sorts: 19.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 293 frame query
+P1: 0.25 common_RGB_perception: 5 all semantic sorts: 20.0
+P2: 0.000
+P3:   max_same_angle_count is : 0.0000
+final score: 0.0000, P1: 0, P2: 0, P3: 0
+the 294 frame query
+P1: 0.35 common_RGB_perception: 7 all semantic sorts: 20.0
+P2: 2
+P3:   max_same_angle_count is : 2.5
+final score: 0.0000, P1: 0.35, P2: 2, P3: 2.5
+the 295 frame query
+P1: 0.4 common_RGB_perception: 8 all semantic sorts: 20.0
+P2: 3
+P3:   max_same_angle_count is : 4
+final score: 0.0000, P1: 0.4, P2: 3, P3: 4
+the 296 frame query
+P1: 0.4 common_RGB_perception: 8 all semantic sorts: 20.0
+P2: 3
+P3:   max_same_angle_count is : 4
+final score: 0.0000, P1: 0.4, P2: 3, P3: 4
+the 297 frame query
+P1: 0.4 common_RGB_perception: 8 all semantic sorts: 20.0
+P2: 4
+P3:   max_same_angle_count is : 5
+final score: 0.0000, P1: 0.4, P2: 4, P3: 5
+the 298 frame query
+P1: 0.45 common_RGB_perception: 9 all semantic sorts: 20.0
+P2: 4
+P3:   max_same_angle_count is : 4
+final score: 0.0000, P1: 0.45, P2: 4, P3: 4
+the 299 frame query
+P1: 0.45 common_RGB_perception: 9 all semantic sorts: 20.0
+P2: 4
+P3:   max_same_angle_count is : 5
+final score: 0.0000, P1: 0.45, P2: 4, P3: 5
