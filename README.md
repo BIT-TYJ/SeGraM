@@ -1,4 +1,3 @@
-# SLOOP
 ## File Description
 > src/SLOOP.py : main code
 
